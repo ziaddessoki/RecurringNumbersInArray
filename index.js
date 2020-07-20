@@ -25,3 +25,4 @@ let map = {};
 }
 
 recurringCheck2(array1)
+recurringCheck2(array1)
